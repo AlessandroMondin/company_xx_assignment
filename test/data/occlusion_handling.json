@@ -1,0 +1,20 @@
+{
+    "obs": {
+        "0": {
+            "scene_id": [1, 2],
+            "type": ["CAR", "BIKE"]
+        },
+        "1": {
+            "scene_id": [2],
+            "type": ["BIKE"]
+        },
+        "2": {
+            "scene_id": [2],
+            "type": ["BIKE"]
+        },
+        "3": {
+            "scene_id": [1, 2],
+            "type": ["CAR", "BIKE"]
+        }
+    }
+}

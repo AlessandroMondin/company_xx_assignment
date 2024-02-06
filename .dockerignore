@@ -1,0 +1,7 @@
+.venv/**
+.vscode/**
+**/__pycache__/**
+
+test/**
+driving_data/**
+driving_analysis.egg-info/**
